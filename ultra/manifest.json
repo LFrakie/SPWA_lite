@@ -1,12 +1,12 @@
 {
-  "name": "SPWA ultra",
-  "short_name": "SPWA ultra",
+  "name": "SPWA lite",
+  "short_name": "SPWA lite",
   "description": "...descripción...",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FFEA00",
-  "theme_color": "#FFEA00",
+  "background_color": "#A2FF00",
+  "theme_color": "#A2FF00",
   "icons": [{
       "src": "ico.png",
       "type": "image/png",
