@@ -5,8 +5,8 @@
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#DDFF00",
-  "theme_color": "#1e88e5",
+  "background_color": "#A2FF00",
+  "theme_color": "#A2FF00",
   "icons": [{
       "src": "ico.png",
       "type": "image/png",
